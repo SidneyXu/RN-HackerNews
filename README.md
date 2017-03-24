@@ -4,10 +4,9 @@
 
 ## 截图
 
-|                                          |                                          |
-| ---------------------------------------- | ---------------------------------------- |
-| <img src="capture/1.png" width="50%" height="50%"/> | <img src="capture/2.png" width="50%" height="50%"/> |
-| <img src="capture/3.png" width="50%" height="50%"/> | <img src="capture/4.png" width="50%" height="50%"/> |
+<img src="capture/1.png" width="50%" height="50%"/><img src="capture/2.png" width="50%" height="50%"/>
+
+<img src="capture/3.png" width="50%" height="50%"/><img src="capture/4.png" width="50%" height="50%"/>
 
 
 ## 如何安装
