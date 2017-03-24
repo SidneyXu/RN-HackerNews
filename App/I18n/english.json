@@ -1,0 +1,21 @@
+{
+   "loading": "Loading...",
+   "top": "Top",
+   "new": "New",
+   "show": "Show",
+   "ask": "Ask",
+   "job": "Job",
+   "notFound": "Nothing to See Here, Move Along",
+   "article": "Article",
+   "author": "Author",
+   "created": "Created",
+   "ago": "ago",
+   "karma": "Karma",
+   "day": "day",
+   "minute": "minute",
+   "hour": "hour",
+   "plur": "s",
+   "comments": "comments",
+   "noComments": "no comments",
+   "by": "by"
+}

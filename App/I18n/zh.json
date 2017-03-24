@@ -1,0 +1,17 @@
+{
+    "username": "姓名",
+    "loading": "加载中...",
+    "article": "文章",
+    "created": "创建于",
+    "ago": "以前",
+    "karma": "Karma",
+    "author": "作者",
+    "day": "天",
+    "minute": "分钟",
+    "hour": "小时",
+    "plur": "",
+    "comments": "评论",
+    "by": "",
+    "noComments": "没有评论",
+    "notFound": "没有内容"
+}
