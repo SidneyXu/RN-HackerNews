@@ -29,7 +29,7 @@
 
 以下依赖基本上都是 Ignite 提供的，已经可以适用于大部分的开发工作
 
-- Ignite	ReactNative 的脚手架工具，可以生成工程模板，通过命令行添加各种组件
+  - Ignite	ReactNative 的脚手架工具，可以生成工程模板，通过命令行添加各种组件
   - apisauce一个客户端网络请求框架
   - lodash前端工具库
     - ramda函数式编程工具库
