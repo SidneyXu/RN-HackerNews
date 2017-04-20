@@ -4,8 +4,8 @@
 
 ## 截图
 
-<img src="capture/1.png" width="30%" height="30%"/><img src="capture/2.png" width="30%" height="30%"/>
-
+<img src="capture/1.png" width="30%" height="30%"/><img src="capture/2.png" width="30%" height="30%"/>  
+  
 <img src="capture/3.png" width="30%" height="30%"/><img src="capture/4.png" width="30%" height="30%"/>
 
 
@@ -30,16 +30,16 @@
 以下依赖基本上都是 Ignite 提供的，已经可以适用于大部分的开发工作
 
   - Ignite	ReactNative 的脚手架工具，可以生成工程模板，通过命令行添加各种组件
-  - apisauce一个客户端网络请求框架
-  - lodash前端工具库
-    - ramda函数式编程工具库
-  - react-native-animatable动画库
-    - react-native-i18n多语言库，可以非常方便地实现多语言
-    - react-native-vector-icons图标库，非常实用
-  - redux-loggerRedux 日志输出工具，一般就调试时用，会非常影响渲染效率
-  - redux-sagaRedux 异步调用工具，与 redux-thunk 相比入手难度较高
-  - react-native-router-fluxReactNative 路由跳转支持
-  - reactotron-react-nativeIgnite 出品的调试工具，个人觉得未必比 Redux-Tool 好用
+  - apisauce  一个客户端网络请求框架
+  - lodash  前端工具库
+    - lamda 函数式编程工具库
+  - react-native-animatable  动画库
+    - react-native-i18n  多语言库，可以非常方便地实现多语言
+    - react-native-vector-icons  图标库，非常实用
+  - redux-loggerRedux  日志输出工具，一般就调试时用，会非常影响渲染效率
+  - redux-sagaRedux  异步调用工具，与 redux-thunk 相比入手难度较高
+  - react-native-router-fluxReactNative  路由跳转支持
+  - reactotron-react-native  Ignite 出品的调试工具，个人觉得未必比 Redux-Tool 好用
 
 
 [list]:	capture/1.png
